@@ -6,7 +6,7 @@
 </div>
 
 <!-- 🔄 Ganti URL src di bawah dengan GIF milikmu sendiri (lihat Langkah 3 di atas) -->
-<img align="right" height="150" src="https://media1.tenor.com/m/w2OllemLl7UAAAAd/cat-meme-cat.gif"  />
+<img align="right" height="150" src="assets/StrayCat.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -40,4 +40,4 @@
 </div>
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Razzkoo/Razzkoo/output/snake.svg" alt="Snake animation" />

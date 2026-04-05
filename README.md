@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Azkoo and I'm a Beginner programming, from Special Region Yogyakarta</h2>
 
-<div align="center">
+<div align="right">
   <img height="150" src="assets/LizardHoppers.gif" alt="gif 1" />
   <img width="20" />
   <img height="150" src="assets/StrayCat.gif" alt="gif 2" />

@@ -1,12 +1,9 @@
 <h2 align="left">Hi 👋! My name is Azkoo and I'm a Beginner programming, from Special Region Yogyakarta</h2>
 
-<div align="right">
-  <img height="150" src="assets/LizardHoppers.gif" alt="gif 1" />
-  <img width="20" />
-  <img height="150" src="assets/StrayCat.gif" alt="gif 2" />
-</div>
+###
 
-
+<img align="right" height="150" src="assets/LizardHoppers.gif" alt="gif 1" />
+<img align="right" height="150" src="assets/StrayCat.gif" alt="gif 2" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -40,4 +37,9 @@
 </div>
 
 <br clear="both">
+
+###
+
 <img src="https://raw.githubusercontent.com/Razzkoo/Razzkoo/output/snake.svg" alt="Snake animation" />
+
+###

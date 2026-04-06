@@ -40,6 +40,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Razzkoo/Razzkoo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Razzkoo/Razzkoo/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 ###
